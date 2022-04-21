@@ -90,6 +90,7 @@ public class Main {
             System.out.println(n);
         } while (n > 0);
 
+        System.out.println();
     }
 
     public static void checkWorker() {
